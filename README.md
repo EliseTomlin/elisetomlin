@@ -3,17 +3,17 @@
 <h3 align="center">Full-stack software engineer</h3>
 
 <h1 align='center'> Projects </h1>
-<div>
+<div align=center>
   <a href="https://disney-princess-facts-api.onrender.com/" target="_blank">
-    <img src="https://elisetomlin.netlify.app/images/disney-princess-app.PNG" width="300" alt="Alt Text 1">
+    <img src="https://elisetomlin.netlify.app/images/disney-princess-app.PNG" width="200" alt="Alt Text 1">
   </a>
   
   <a href="https://vivasalon.netlify.app/" target="_blank">
-    <img src="https://elisetomlin.netlify.app/images/viva-salon.PNG" width="300" alt="Alt Text 2">
+    <img src="https://elisetomlin.netlify.app/images/viva-salon.PNG" width="200" alt="Alt Text 2">
   </a>
   
   <a href="https://elisetomlin.netlify.app/" target="_blank">
-    <img src="https://elisetomlin.netlify.app/images/portfolio%20snippet.PNG" width="300" alt="Alt Text 3">
+    <img src="https://elisetomlin.netlify.app/images/portfolio%20snippet.PNG" width="200" alt="Alt Text 3">
   </a>
 
 </div>
