@@ -1,5 +1,23 @@
+<img src="" width="100%" data-canonical-src="https://i.imgur.com/536JNd9.jpg" style="max-width: 100%;">
 <h1 align="center">Hi 👋, I'm Elise</h1>
 <h3 align="center">Full-stack software engineer</h3>
+
+<h1 align='center'> Projects </h1>
+<div>
+  <a href="https://disney-princess-facts-api.onrender.com/" target="_blank">
+    <img src="https://elisetomlin.netlify.app/images/disney-princess-app.PNG" width="300" alt="Alt Text 1">
+  </a>
+  
+  <a href="https://vivasalon.netlify.app/" target="_blank">
+    <img src="https://elisetomlin.netlify.app/images/viva-salon.PNG" width="300" alt="Alt Text 2">
+  </a>
+  
+  <a href="https://elisetomlin.netlify.app/" target="_blank">
+    <img src="https://elisetomlin.netlify.app/images/portfolio%20snippet.PNG" width="300" alt="Alt Text 3">
+  </a>
+
+</div>
+
 
 - 🔭 I’m currently working on [HearSync](https://github.com/EliseTomlin/hear-sync-maintenance)
 
@@ -16,6 +34,9 @@
 <a href="https://twitter.com/coding_dpt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coding_dpt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/elise-tomlin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elise-tomlin" height="30" width="40" /></a>
 <a href="https://instagram.com/coding_dpt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coding_dpt/" height="30" width="40" /></a>
+
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
