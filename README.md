@@ -1,6 +1,5 @@
-<img src="" width="100%" data-canonical-src="https://i.imgur.com/536JNd9.jpg" style="max-width: 100%;">
-<h1 align="center">Hi 👋, I'm Elise</h1>
-<h3 align="center">Full-stack software engineer</h3>
+<img src="https://pbs.twimg.com/profile_banners/1261865019983224835/1686036079/1080x360" width="100%" data-canonical-src="[https://i.imgur.com/536JNd9.jpg](https://pbs.twimg.com/profile_banners/1261865019983224835/1686036079/1080x360" style="max-width: 100%;">
+
 
 <h1 align='center'> Projects </h1>
 <div align=center>
