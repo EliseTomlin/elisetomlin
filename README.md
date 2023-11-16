@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on [HearSync](https://github.com/EliseTomlin/hear-sync-maintenance)
 
-- 👨‍💻 All of my projects are available at [https://elisetomlin.netlify.app/](https://elisetomlin.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://elisetomlin.netlify.app/)
 
 - 📫 How to reach me **elisetomlinPT@gmail.com**
 
