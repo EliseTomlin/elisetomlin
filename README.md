@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **elisetomlinPT@gmail.com**
 
-- 📄 Learn about my experiences [Resume](https://drive.google.com/file/d/13yJqu-m9fzXdXSji4HsSE32qVVLs7Zxh/view?usp=sharing)
+- 📄 Learn about my experiences [R&eacute;sum&eacute;](https://drive.google.com/file/d/13yJqu-m9fzXdXSji4HsSE32qVVLs7Zxh/view?usp=sharing)
 
 - ⚡ Fun fact **I run for fun.**
 
