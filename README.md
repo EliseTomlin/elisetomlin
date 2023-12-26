@@ -18,7 +18,7 @@
 </div>
 
 
-- 🔭 I’m currently working on [HearSync](https://github.com/EliseTomlin/hear-sync-maintenance)
+- 🔭 I’m currently working on [HearSync](https://github.com/EliseTomlin/hear-sync-maintenance/blob/main/README.md)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://elisetomlin.netlify.app/)
 
